@@ -1,26 +1,56 @@
+<div align="center">
+
+```
+ /$$$$$$$   /$$$$$$  /$$$$$$ /$$    /$$  /$$$$$$
+| $$__  $$ /$$__  $$|_  $$_/| $$   | $$ /$$__  $$
+| $$  \ $$| $$  \ $$  | $$  | $$   | $$| $$  \ $$
+| $$$$$$$/| $$$$$$$$  | $$  |  $$ / $$/| $$$$$$$$
+| $$____/ | $$__  $$  | $$   \  $$ $$/ | $$__  $$
+| $$      | $$  | $$  | $$    \  $$$/  | $$  | $$
+| $$      | $$  | $$ /$$$$$$   \  $/   | $$  | $$
+|__/      |__/  |__/|______/    \_/    |__/  |__/
+```
+
+**Backend Software Engineer** · Java · Go · C++ · Python · .NET · Docker · Linux
+
+[![GitHub](https://img.shields.io/badge/GitHub-AfonsoPaiva-22c55e?style=flat-square&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/AfonsoPaiva)
+[![Portfolio](https://img.shields.io/badge/Portfolio-afonsopaiva.github.io-22c55e?style=flat-square&logo=firefox&logoColor=white&labelColor=0d0d0d)](https://afonsopaiva.github.io/Portfolio/)
+[![Instagram](https://img.shields.io/badge/Instagram-paiva________-22c55e?style=flat-square&logo=instagram&logoColor=white&labelColor=0d0d0d)](https://www.instagram.com/paiva________)
+[![Profile Views](https://komarev.com/ghpvc/?username=AfonsoPaiva&color=22c55e&style=flat-square&label=views)](https://github.com/AfonsoPaiva)
+
+</div>
+
+---
 
 ### Skills
 
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a></p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="36" height="36" alt="C" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="36" height="36" alt="C++" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="36" height="36" alt="C#" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Git" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="36" height="36" alt="Linux" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="36" height="36" alt=".NET" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="36" height="36" alt="Blender" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="36" height="36" alt="Raspberry Pi" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" height="36" alt="Java" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="36" height="36" alt="Go" />
+</p>
 
+---
 
-### Badges
+### GitHub Stats
 
-<b>My GitHub Stats</b>
+<div align="center">
 
- <a href="http://www.github.com/AfonsoPaiva" style="display: inline-block;">
-        <img src="https://github-readme-stats.vercel.app/api?username=AfonsoPaiva&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&show_icons=true" alt="AfonsoPaiva's GitHub stats" />
-    </a>
-<a href="http://www.github.com/AfonsoPaiva" style="display: inline-block;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AfonsoPaiva&stroke=ffffff&background=1c1917&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-    </a>
+![followers](https://img.shields.io/github/followers/AfonsoPaiva?style=for-the-badge&color=22c55e&labelColor=0d0d0d&logo=github&logoColor=white)
+![stars](https://img.shields.io/github/stars/AfonsoPaiva?style=for-the-badge&color=22c55e&labelColor=0d0d0d&logo=github&logoColor=white)
 
-<a href="https://github.com/AfonsoPaiva" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfonsoPaiva&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AfonsoPaiva&bg_color=0d0d0d&color=22c55e&line=22c55e&point=ffffff&area=true&hide_border=true)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=AfonsoPaiva&theme=dark&hide_border=true&background=0D0D0D&ring=22C55E&fire=22C55E&currStreakNum=FFFFFF&currStreakLabel=22C55E&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA)
 
-### Socials
-
-<p align="left"> <a href="https://www.github.com/AfonsoPaiva" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
-
-<br>
+</div>
