@@ -48,9 +48,6 @@
 
 ![followers](https://img.shields.io/github/followers/AfonsoPaiva?style=for-the-badge&color=22c55e&labelColor=0d0d0d&logo=github&logoColor=white)
 ![stars](https://img.shields.io/github/stars/AfonsoPaiva?style=for-the-badge&color=22c55e&labelColor=0d0d0d&logo=github&logoColor=white)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AfonsoPaiva&bg_color=0d0d0d&color=22c55e&line=22c55e&point=ffffff&area=true&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=AfonsoPaiva&theme=dark&hide_border=true&background=0D0D0D&ring=22C55E&fire=22C55E&currStreakNum=FFFFFF&currStreakLabel=22C55E&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA)
 
 </div>
